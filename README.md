@@ -1,50 +1,32 @@
-﻿<div align="center">
-  <h1 align="center">School management</h1>
-  <h3>Developed by Tushar Shukla</h3>
-</div>
-
-<br/>
-
-## 🚀 Overview
-
-Welcome to the **School management** repository! This project was built to solve interesting problems and explore new technologies. Check out the source code to see how it was implemented.
-
-<br/>
-
-## 🛠️ Built With
-
-*This project leverages modern tools and technologies to deliver a robust solution.*
-
-<br/>
-
-## 💻 Getting Started
-
-To get a local copy up and running, follow these simple steps:
-
-1. Clone the repo:
-   `sh
-   git clone https://github.com/TusharJiShukla/School_management.git
-   `
-2. Navigate to the project directory:
-   `sh
-   cd School_management
-   `
-
-<br/>
-
-## 🤝 Contributing
-
-Contributions, issues, and feature requests are welcome! Feel free to check the issues page if you want to contribute.
-
-<br/>
-
-## 👤 Author
-
-**Tushar Shukla**
-- GitHub: [@TusharJiShukla](https://github.com/TusharJiShukla)
-- LinkedIn: [Tushar Shukla](https://linkedin.com/in/tushar-shukla)
-- Email: tusharjishukla@gmail.com
-
 <div align="center">
-  <sub>Made with ❤️ by Tushar Shukla</sub>
+  
+# 🏫 School Management System API
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+A robust backend service for managing school operations, students, and administration.
 </div>
+
+## 🌟 Features
+- **RESTful API**: Clean and structured endpoints in `backend.js`.
+- **Environment Configurations**: Secure setups using `.env`.
+- **Lightweight**: Fast execution powered by Node.js.
+
+## 🚀 Getting Started
+### Installation
+1. Clone the repo and enter the folder:
+   ```bash
+   cd School_management
+   ```
+2. Install dependencies:
+   ```bash
+   npm install
+   ```
+3. Setup your `.env` file with appropriate credentials.
+4. Start the server:
+   ```bash
+   npm start
+   # or node backend.js
+   ```
